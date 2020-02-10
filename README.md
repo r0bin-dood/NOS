@@ -1,10 +1,8 @@
-# NOS
+![NOS Logo](nos.png)
 
-Nostro OS
+## Nostro OS
 
 Nostro OS or NOS for short, is a real-time operating system inpired by the Sevastolink personal terminal in Alien: Isolation and variations of the Nostromo terminal in the Alien franchise.
-
-NOS is inteded to be a fully functional operating system, with its own kernel, ABI, file system, comunication protocols, device drivers, and more, while still being Linux compatible. NOS will be developed from scratch, drawing inspiration from MS-DOS, UNIX, Linux, and others. Building an operating system is a massive undertaking, given the size of such a program and how many moving peices a developer needs to account for.
 
 TODO :
 
